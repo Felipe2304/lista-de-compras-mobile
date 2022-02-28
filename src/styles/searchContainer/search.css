@@ -1,0 +1,25 @@
+.search-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.text-list {
+  color: aliceblue;
+  font-size: 22px;
+  font-weight: 700;
+  text-align: start;
+}
+
+.search-wrapper {
+  background-color: #ffffff;
+  width: fit-content;
+  height: 35px;
+  padding: 5px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+}
