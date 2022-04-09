@@ -28,7 +28,7 @@ input {
 }
 
 .input-product {
-  width: 210px;
+  width: 180px;
   height: 35px;
   border-radius: 20px;
 }
@@ -44,7 +44,7 @@ input {
 
 .register-button {
   height: 35px;
-  width: 210px;
+  width: 180px;
   border-radius: 20px;
   transition: 300ms;
   border: none;
